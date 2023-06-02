@@ -9,3 +9,7 @@ body {
 img {
     width: 50%;
 }
+
+div{
+    display: flex;
+}
